@@ -15,7 +15,7 @@ State-space models are powerful frameworks for modeling sequential data and capt
 
 | Metric       | LSTM  | xLSTM | Mamba |
 |--------------|-------|-------|-------|
-| Perplexity (PPL) |   | 137  |   |
+| Perplexity (PPL) | 140  | 137  |   |
 
 > Lower PPL indicates better performance.
 
