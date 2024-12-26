@@ -7,7 +7,7 @@ State Space Models Survey: LSTM, xLSTM, Mamba
 | Nguyễn Trường Huy |      | 
 | Nguyễn Tiến Trung   |      | 
 | Quản Xuân Sơn   | 22022519     | 
-| Hoàng |      |
+| Nguyễn Huy Hoàng | 22022584    |
 | Dũng |      |
 
 ## Overview
@@ -15,7 +15,7 @@ State-space models are powerful frameworks for modeling sequential data and capt
 
 | Metric       | LSTM  | xLSTM | Mamba |
 |--------------|-------|-------|-------|
-| Perplexity (PPL) | 140  | 137  |   |
+| Perplexity (PPL) | 140  | 137  | 97  |
 
 > Lower PPL indicates better performance.
 
