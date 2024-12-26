@@ -5,7 +5,7 @@ State Space Models Survey: LSTM, xLSTM, Mamba
 | Name       | Student ID  |
 | ----------------- | -------------- | 
 | Nguyễn Trường Huy | 22022509     | 
-| Nguyễn Tiến Trung   |      | 
+| Nguyễn Tiến Trung   | 22022541     | 
 | Quản Xuân Sơn   | 22022519     | 
 | Nguyễn Huy Hoàng | 22022584    |
 | Nguyễn Tiến Dũng | 22022644     |
