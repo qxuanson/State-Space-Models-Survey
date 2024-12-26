@@ -8,7 +8,7 @@ State Space Models Survey: LSTM, xLSTM, Mamba
 | Nguyễn Tiến Trung   |      | 
 | Quản Xuân Sơn   | 22022519     | 
 | Nguyễn Huy Hoàng | 22022584    |
-| Dũng |      |
+| Nguyễn Tiến Dũng | 22022644     |
 
 ## Overview
 State-space models are powerful frameworks for modeling sequential data and capturing dependencies over time. In this survey paper, we discuss three state-space models: LSTM, xLSTM, and Mamba. We conducted experiments with these models on the language modeling task and achieved the following results:
