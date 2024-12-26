@@ -10,7 +10,7 @@ State Space Models Survey: LSTM, xLSTM, Mamba
 | Hoàng |      |
 | Dũng |      |
 
-## Introduction
+## Overview
 State-space models are powerful frameworks for modeling sequential data and capturing dependencies over time. In this survey paper, we discuss three state-space models: LSTM, xLSTM, and Mamba. We conducted experiments with these models on the language modeling task and achieved the following results:
 
 | Metric       | LSTM  | xLSTM | Mamba |
