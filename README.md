@@ -2,7 +2,7 @@
 State Space Models Survey: LSTM, xLSTM, Mamba
 
 ## Contributors
-| Họ và tên       | Mã sinh viên |
+| Name       | Student ID  |
 | ----------------- | -------------- | 
 | Nguyễn Trường Huy |      | 
 | Nguyễn Tiến Trung   |      | 
