@@ -4,7 +4,7 @@ State Space Models Survey: LSTM, xLSTM, Mamba
 ## Contributors
 | Name       | Student ID  |
 | ----------------- | -------------- | 
-| Nguyễn Trường Huy |      | 
+| Nguyễn Trường Huy | 22022509     | 
 | Nguyễn Tiến Trung   |      | 
 | Quản Xuân Sơn   | 22022519     | 
 | Nguyễn Huy Hoàng | 22022584    |
