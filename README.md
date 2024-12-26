@@ -1,7 +1,7 @@
 # State Space Models Survey
 State Space Models Survey: LSTM, xLSTM, Mamba
 
-## Thành viên nhóm
+## Contributors
 | Họ và tên       | Mã sinh viên |
 | ----------------- | -------------- | 
 | Nguyễn Trường Huy |      | 
